@@ -1,3 +1,5 @@
+<img src='https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/9/0fc96bd99faa7941b18bcae4c5f90c6acd11791d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240219%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240219T002511Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5cb9b7c464802fde7f66dda7fc2d158cc2201ff958c89acc71112b573b8fe913'>
+
 # holbertonschool-network
 
 Welcome to the Holbertonschool-Network Practice Repository! 🚀
